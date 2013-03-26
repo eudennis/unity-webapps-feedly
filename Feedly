@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name          Feedly-Unity-Integration
+// @include       https://www.feedly.com/*
+// @include       http://www.feedly.com/*
+// @version       0.1
+// @author        Dennis Altermann
+// ==/UserScript==
+ 
+window.Unity = external.getUnityObject(1.0);
+ 
+Unity.init({ name: "Feedly",
+            iconUrl: "http://www.apkdad.com/wp-content/uploads/2013/01/Feedly.-Your-News-Deck.-Icon.png",
+            onInit: null });
