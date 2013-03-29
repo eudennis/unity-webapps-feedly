@@ -1,0 +1,37 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: unity-webapps-launchpad
+Upstream-Contact: Webapps Team <webapps@lists.launchpad.net>
+
+Files: *.js *.json
+Copyright: 2012 Canonical Ltd.
+License: GPL-3
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; version 3 dated June, 2007.
+ .
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+ .
+  You should have received a copy of the GNU General Public License
+  along with this program;  if not, write to the Free Software
+  Foundation, Inc., 51 Franklin St, Fifth Floor, Boston,
+  MA 02110-1301, USA.
+ .
+  The full text of the can be found in the file
+  '/usr/share/common-licenses/GPL-3'.
+
+Files: debian/*
+Copyright: 2012 The friendly pkgme.net robot
+License: public-domain
+ This automatically generated code which is free from copyright restrictions.
+
+
+Files: */*.png */*.svg
+Copyright: various
+License: trademark-controlled
+ Any trademarks, logos and service marks displayed on Ubuntu are the
+ property of their owners, whether Canonical or third parties.  For further
+ information on links to third party sites and content please see
+ Canonical's legal notice at http://www.ubuntu.com/legal.
