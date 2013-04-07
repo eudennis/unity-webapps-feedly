@@ -1,7 +1,7 @@
 Source: unity-webapps-feedly
 Section: web
 Priority: extra
-Standards-Version: 0.0.1
+Standards-Version: 0.0.2
 Maintainer: Dennis Altermann <dennisaltermann@gmail.com>
 Build-Depends: debhelper (>=7)
 Homepage: https://feedly.com/

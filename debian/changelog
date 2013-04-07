@@ -1,6 +1,11 @@
+unity-webapps-feedly (0.2) quantal; urgency=low
+
+  * User evfool emproved the Feedly Integration
+
+ -- Dennis Altermann <dennisaltermann@gmail.com>  Tue, 18 Sep 2012 18:39:31 +0000
+
 unity-webapps-feedly (0.1) quantal; urgency=low
 
   * Initial release
 
  -- Dennis Altermann <dennisaltermann@gmail.com>  Tue, 18 Sep 2012 18:39:31 +0000
-
