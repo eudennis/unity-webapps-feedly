@@ -1,11 +1,12 @@
-unity-webapps-feedly (0.2) quantal; urgency=low
+unity-webapps-feedly (1.1) quantal; urgency=low
 
-  * User evfool emproved the Feedly Integration
+  * User evfool improved the Feedly integration with Messaging Menu
 
  -- Dennis Altermann <dennisaltermann@gmail.com>  Tue, 18 Sep 2012 18:39:31 +0000
 
-unity-webapps-feedly (0.1) quantal; urgency=low
+unity-webapps-feedly (1.0) quantal; urgency=low
 
   * Initial release
+  * Basic webapp integration
 
  -- Dennis Altermann <dennisaltermann@gmail.com>  Tue, 18 Sep 2012 18:39:31 +0000
