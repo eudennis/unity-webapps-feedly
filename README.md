@@ -1,9 +1,9 @@
 Unity-Webapps-Feedly
 ===================
 
-<h2>Feedly integration with Ubuntu Unity desktop.</h2>
+<h2>Feedly integration with Ubuntu Unity desktop. (www.feedly.com)</h2>
 
-<p>Feedly is a news aggregator application for various Web browsers and mobile devices running iOS and Android. It compiles news feeds from a variety of online sources for the user to customize and share with others. First Released by DevHD in 2008, Feedly has had mostly positive reviews.</p>
+<p>Feedly is a news aggregator application for various Web browsers and mobile devices running iOS and Android. It compiles news feeds from a variety of online sources for the user to customize and share with others. First Released by DevHD in 2008, Feedly has had mostly positive reviews. <cite>Wikipedia</cite></p>
 
 <p>For more information about Ubuntu Unity Web apps see this: http://developer.ubuntu.com/resources/technologies/webapps/</p>
 
