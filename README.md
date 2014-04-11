@@ -16,8 +16,9 @@ Unity-Webapps-Feedly
 
 <h4>Changelog:</h4>
 <ul>
-<li><strong>1.1</strong> Messaging Menu integration and bubble in launcher icon;</li>
-<li><strong>1.0</strong> Basic webapp integration (launcher icon, dashboard search and alt+tab);</li>
+	<li><strong>1.1.1</strong> Trying to fix problems with Chromium</li>
+	<li><strong>1.1</strong> Messaging Menu integration and bubble in launcher icon;</li>
+	<li><strong>1.0</strong> Basic webapp integration (launcher icon, dashboard search and alt+tab);</li>
 </ul>
 
 <h4>Installing:</h4>
