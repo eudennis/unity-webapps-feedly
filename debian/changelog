@@ -1,3 +1,10 @@
+unity-webapps-feedly (1.1.1) quantal; urgency=low
+
+  * Improving Chromium integration
+
+ -- Dennis Altermann <dennisaltermann@gmail.com>  Tue, 10 Apr 2014 18:39:31 +0000
+
+
 unity-webapps-feedly (1.1) quantal; urgency=low
 
   * User evfool improved the Feedly integration with Messaging Menu
