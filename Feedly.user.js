@@ -1,12 +1,12 @@
 // ==UserScript==
-// @include https://*.feedly.com/*
-// @include https://www.feedly.com/*
-// @include https://*.feedly.com/
 // @include http://www.feedly.com/*
+// @include https://www.feedly.com/*
+// @include http://*.feedly.com/*
+// @include https://*.feedly.com/*
 // @require        utils.js
 // ==/UserScript==
 
-window.Unity = external.getUnityObject(1);
+window.Unity = external.getUnityObject(1.0);
 
 function unityLoaded() {
     var uri = window.location.toString();
