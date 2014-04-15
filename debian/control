@@ -4,7 +4,7 @@ Priority: extra
 Standards-Version: 1.1.1
 Maintainer: Dennis Altermann <dennisaltermann@gmail.com>
 Build-Depends: debhelper (>=7)
-Homepage: https://feedly.com/
+Homepage: https://www.feedly.com/
 
 Package: unity-webapps-feedly
 Architecture: all
@@ -15,4 +15,3 @@ XB-Ubuntu-Webapps-Includes: http://*.feedly.com/*;https://*.feedly.com/*
 XB-Ubuntu-Webapps-Name: Feedly
 XB-Ubuntu-Webapps-Domain: feedly.com
 Description: Unity Webapp for Feedly
- Feedly Webapp for Unity
