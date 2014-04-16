@@ -1,9 +1,3 @@
-unity-webapps-feedly (1.1-0~10~saucy1) saucy; urgency=low
-
-  * Auto build.
-
- -- Guilhem Lettron <guilhem+ubuntu@lettron.fr>  Tue, 14 May 2013 09:50:57 +0000
-
 unity-webapps-feedly (1.1) quantal; urgency=low
 
   * User evfool improved the Feedly integration with Messaging Menu
